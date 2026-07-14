@@ -1,0 +1,49 @@
+﻿campaign_id,campaign_name,campaign_type,start_date,end_date,target_amount,campaign_status
+100,Weihnachtsspende 2021,Weihnachtsaktion,2021-11-09,2021-12-29,84258,Completed
+101,Nothilfe Hochwasser Ahrtal,Nothilfe,2021-06-28,2021-07-21,148549,Completed
+102,Bildungschancen 2021,Frühjahrskampagne,2021-05-01,2021-06-25,53975,Completed
+103,Klimaschutz vor Ort 2021,Herbstkampagne,2021-09-02,2021-11-10,70405,Completed
+104,Dauerspender-Aktion 2021,Dauerspender,2021-01-11,2021-04-17,31682,Completed
+105,Osteraktion 2021,Saisonaktion,2021-03-28,2021-05-12,39540,Completed
+106,Ferienhilfe 2021,Ferienhilfe,2021-06-25,2021-08-21,47150,Completed
+107,Charity-Gala Frankfurt 2021,Benefiz-Event,2021-08-12,2021-08-13,22473,Completed
+108,Weihnachtsspende 2022,Weihnachtsaktion,2022-11-06,2022-12-26,117176,Completed
+109,Nothilfe Ukraine,Nothilfe,2022-09-15,2022-10-21,63077,Completed
+110,Gesundheit für alle 2022,Frühjahrskampagne,2022-05-02,2022-07-10,61115,Completed
+111,Sauberes Wasser 2022,Herbstkampagne,2022-09-13,2022-11-08,74195,Completed
+112,Dauerspender-Aktion 2022,Dauerspender,2022-01-08,2022-04-15,42685,Completed
+113,Osteraktion 2022,Saisonaktion,2022-03-21,2022-05-04,38136,Completed
+114,Ferienhilfe 2022,Ferienhilfe,2022-06-18,2022-08-27,24558,Completed
+115,Spendenlauf Berlin 2022,Benefiz-Event,2022-08-04,2022-08-05,25319,Completed
+116,Weihnachtsspende 2023,Weihnachtsaktion,2023-11-06,2023-12-26,111376,Completed
+117,Nothilfe Erdbeben Türkei-Syrien,Nothilfe,2023-09-03,2023-10-17,55527,Completed
+118,Klimaschutz vor Ort 2023,Frühjahrskampagne,2023-05-08,2023-07-13,43257,Completed
+119,Bildungschancen 2023,Herbstkampagne,2023-09-07,2023-11-10,41982,Completed
+120,Dauerspender-Aktion 2023,Dauerspender,2023-01-07,2023-04-08,76774,Completed
+121,Osteraktion 2023,Saisonaktion,2023-03-20,2023-04-24,35246,Completed
+122,Ferienhilfe 2023,Ferienhilfe,2023-06-28,2023-09-11,20847,Completed
+123,Benefizkonzert Köln 2023,Benefiz-Event,2023-06-12,2023-06-13,28898,Completed
+124,Weihnachtsspende 2024,Weihnachtsaktion,2024-11-13,2025-01-02,72944,Completed
+125,Nothilfe Hochwasser Süddeutschland,Nothilfe,2024-04-27,2024-05-27,111625,Completed
+126,Sauberes Wasser 2024,Frühjahrskampagne,2024-05-11,2024-07-16,73504,Completed
+127,Gesundheit für alle 2024,Herbstkampagne,2024-09-02,2024-11-11,26805,Completed
+128,Dauerspender-Aktion 2024,Dauerspender,2024-01-15,2024-04-03,36030,Completed
+129,Osteraktion 2024,Saisonaktion,2024-03-16,2024-04-18,45439,Completed
+130,Ferienhilfe 2024,Ferienhilfe,2024-06-08,2024-08-18,31657,Completed
+131,Charity-Gala München 2024,Benefiz-Event,2024-05-08,2024-05-11,28317,Completed
+132,Weihnachtsspende 2025,Weihnachtsaktion,2025-11-15,2026-01-04,79307,Completed
+133,Nothilfe Dürre Ostafrika,Nothilfe,2025-03-20,2025-04-10,136995,Completed
+134,Bildungschancen 2025,Frühjahrskampagne,2025-04-08,2025-06-03,25884,Completed
+135,Klimaschutz vor Ort 2025,Herbstkampagne,2025-09-05,2025-11-08,66281,Completed
+136,Dauerspender-Aktion 2025,Dauerspender,2025-01-06,2025-04-01,41199,Completed
+137,Osteraktion 2025,Saisonaktion,2025-03-25,2025-05-08,29238,Completed
+138,Ferienhilfe 2025,Ferienhilfe,2025-06-13,2025-08-04,55542,Completed
+139,Spendenlauf Hamburg 2025,Benefiz-Event,2025-05-16,2025-05-18,22405,Completed
+140,Weihnachtsspende 2026,Weihnachtsaktion,2026-11-10,2026-12-30,109445,Planned
+141,Nothilfe Erdbeben Südosteuropa,Nothilfe,2026-09-20,2026-10-24,96363,Planned
+142,Gesundheit für alle 2026,Frühjahrskampagne,2026-04-26,2026-06-26,65168,Completed
+143,Sauberes Wasser 2026,Herbstkampagne,2026-09-14,2026-11-27,51533,Planned
+144,Dauerspender-Aktion 2026,Dauerspender,2026-01-04,2026-03-23,43389,Completed
+145,Osteraktion 2026,Saisonaktion,2026-03-16,2026-04-16,49745,Completed
+146,Ferienhilfe 2026,Ferienhilfe,2026-06-21,2026-08-22,41404,Active
+147,Benefizkonzert Leipzig 2026,Benefiz-Event,2026-05-12,2026-05-14,13210,Completed
